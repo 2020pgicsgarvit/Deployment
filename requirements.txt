@@ -1,0 +1,9 @@
+requirements.txt
+
+mlxtend
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+streamlit
